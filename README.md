@@ -18,21 +18,7 @@ Pour utiliser cette app:
 
 - `mkdir .venv`
 
-(vi) puis installez les packages requirements du projet à l'aide des commandes:
-
-- `pipenv install django`
-- `npm install`
-
-(vii) à l'aide des commandes du terminal, activez votre environnement virtuel 
-(si votre environnement virtuel s'appelle env):
-> Sur Windows  
-- terminal de type bash : `source env/Scripts/activate`
-- terminal de type shell : `env\Scripts\activate`
-  
-> Sur Mac ou Linux
-- `source env/bin/activate`
-
-(vii) puis installez les packages requirements du projet à l'aide des commandes:
+(v) puis installez les packages requirements du projet à l'aide des commandes:
 
 - `pipenv install django`
 - `pipenv install python-webpack-boilerplate`
@@ -46,7 +32,8 @@ Pour utiliser cette app:
 
 (i) avec votre terminal, positionnez vous dans le dossier dans lequel vous avez installé l'Appli
 
-(ii) activez l'environnement virtuel
+(ii) activez l'environnement virtuel à l'aide des commandes du terminal:
+- `pipenv shell`
 
 (iii) ensuite tapez la commande 
 
