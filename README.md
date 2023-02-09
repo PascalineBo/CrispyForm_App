@@ -36,6 +36,7 @@ Pour utiliser cette app:
 
 - `pipenv install django`
 - `pipenv install python-webpack-boilerplate`
+- `pipenv install crispy-bootstrap5`
 - `cd frontend` puis `npm install`
 
 
