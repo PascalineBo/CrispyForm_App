@@ -28,8 +28,6 @@ Pour utiliser cette app:
 
 ## Comment utiliser l'Appli:
 
-### Experience utilisateur:
-
 (i) avec votre terminal, positionnez vous dans le dossier dans lequel vous avez installé l'Appli
 
 (ii) activez l'environnement virtuel à l'aide des commandes du terminal:
