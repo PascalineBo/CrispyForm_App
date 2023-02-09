@@ -20,7 +20,9 @@ Pour utiliser cette app:
   
   <li>  créez votre dossier d'environnement virtuel:
 
-- `mkdir .venv`</li>
+- `mkdir .venv`
+- `pip install pipenv`
+</li>
 
   <li> puis installez les packages requirements du projet à l'aide des commandes:
 
