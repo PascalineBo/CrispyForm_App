@@ -1,0 +1,19 @@
+// If you comment out code below, bootstrap will use red as primary color
+// and btn-primary will become red
+
+// $primary: red;
+$input-placeholder-color: red;
+
+@import "~bootstrap/scss/bootstrap";
+
+.jumbotron {
+  // should be relative path of the entry scss file
+  background-image: url("../../vendors/images/sample.jpg");
+  background-size: cover;
+}
+
+.fieldset-style {
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  background: #dcdcdc;
+}
