@@ -6,24 +6,27 @@ Pour utiliser cette app:
 
 
 ## Comment installer cette Appli sur votre ordinateur:
-(i) Requis: téléchargez **[Python 3.10](https://www.python.org/downloads/)** et **[NodeJS](https://nodejs.org/fr/download/)**
+<ol>
+  <li> Requis: téléchargez **[Python 3.10](https://www.python.org/downloads/)** et **[NodeJS](https://nodejs.org/fr/download/)**</li>
 
-(ii) puis, avec les commandes du terminal, positionnez-vous sur le dossier dans lequel vous souhaitez installer l'Appli
+  <li> puis, avec les commandes du terminal, positionnez-vous sur le dossier dans lequel vous souhaitez installer l'Appli</li>
 
-(iii) pour importer les fichiers de ce repository, tapez la commande git:
+  <li> pour importer les fichiers de ce repository, tapez la commande git:
 
-`git clone https://github.com/MargueriteEffren/Crispy_App.git`
+`git clone https://github.com/MargueriteEffren/Crispy_App.git`</li>
 
-(iv) créez votre dossier d'environnement virtuel:
+  <li>  positionnez vous dans le répertoire Crispy_App:`cd Crispy_App`</li>
+  <li>  créez votre dossier d'environnement virtuel:
 
-- `mkdir .venv`
+- `mkdir .venv`</li>
 
-(v) puis installez les packages requirements du projet à l'aide des commandes:
+  <li> puis installez les packages requirements du projet à l'aide des commandes:
 
 - `pipenv install django`
 - `pipenv install python-webpack-boilerplate`
 - `pipenv install crispy-bootstrap5`
-- `cd frontend` puis `npm install`
+- `cd frontend` puis `npm install`</li>
+  </ol>
 
 
 ## Comment utiliser l'Appli:
