@@ -6,7 +6,7 @@ Pour utiliser cette app:
 
 
 ## Comment installer cette Appli sur votre ordinateur:
-(i) Requis: téléchargez **[Python 3.10](https://www.python.org/downloads/)**
+(i) Requis: téléchargez **[Python 3.10](https://www.python.org/downloads/)** et **https://nodejs.org/fr/download/**
 
 (ii) puis, avec les commandes du terminal, positionnez-vous sur le dossier dans lequel vous souhaitez installer l'Appli
 
@@ -27,10 +27,10 @@ Pour utiliser cette app:
 > Sur Mac ou Linux
 - `source env/bin/activate`
 
-(vii) puis installez les packages requirements du projet à l'aide de la commande:
+(vii) puis installez les packages requirements du projet à l'aide des commandes:
 
-`pipenv install django`  et 
-`npm install`
+-`pipenv install django` 
+-`npm install`
 
 
 ## Comment utiliser l'Appli:
