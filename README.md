@@ -45,10 +45,11 @@ Pour utiliser cette app:
   <li>
 - `cd Crispy_App\frontend`
   puis  
-- `npm run start`</li>
+- `npm run start`
+  </li>
 
   <li> retournez à la racine de Crispy_App 
-    - `cd ..`</li>
+- `cd ..`</li>
 
   <li> activez l'environnement virtuel à l'aide des commandes du terminal:
 - `pipenv shell`
