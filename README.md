@@ -35,7 +35,8 @@ Pour utiliser cette app:
 (vii) puis installez les packages requirements du projet à l'aide des commandes:
 
 - `pipenv install django`
-- `npm install`
+- `pipenv install python-webpack-boilerplate`
+- `cd frontend` puis `npm install`
 
 
 ## Comment utiliser l'Appli:
