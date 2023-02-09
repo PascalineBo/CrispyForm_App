@@ -29,7 +29,7 @@ Pour utiliser cette app:
 
 (vii) puis installez les packages requirements du projet à l'aide des commandes:
 
-- `pipenv install django` 
+- `pipenv install django` ou `pip install django`
 - `npm install`
 
 
