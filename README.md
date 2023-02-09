@@ -32,7 +32,7 @@ Pour utiliser cette app:
 - `pipenv install crispy-bootstrap5`
 - `cd frontend` puis `npm install`</li>
 - `npm build start`
-- puis Ctrl + C pour sortir</li>
+</li>
 
 <li> appuyez sur Ctr + C pour sortir
 
