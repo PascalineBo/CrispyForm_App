@@ -42,9 +42,10 @@ Pour utiliser cette app:
 <ol>
   <li> avec votre terminal, positionnez vous dans le dossier dans lequel vous avez installé l'Appli</li>
   
-  <li>`cd Crispy_App\frontend`
+  <li>
+- `cd Crispy_App\frontend`
   puis  
-    - `npm run start`</li>
+- `npm run start`</li>
 
   <li> retournez à la racine de Crispy_App 
     - `cd ..`</li>
