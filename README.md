@@ -6,7 +6,7 @@ Pour utiliser cette app:
 
 
 ## Comment installer cette Appli sur votre ordinateur:
-(i) Requis: téléchargez **[Python 3.10](https://www.python.org/downloads/)** et **https://nodejs.org/fr/download/**
+(i) Requis: téléchargez **[Python 3.10](https://www.python.org/downloads/)** et **[NodeJS](https://nodejs.org/fr/download/)**
 
 (ii) puis, avec les commandes du terminal, positionnez-vous sur le dossier dans lequel vous souhaitez installer l'Appli
 
