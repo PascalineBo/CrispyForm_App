@@ -31,12 +31,21 @@ Pour utiliser cette app:
 - `pipenv install python-webpack-boilerplate`
 - `pipenv install crispy-bootstrap5`
 - `cd frontend` puis `npm install`</li>
+- `npm build start`</li>
+
+<li> appuyez sur Ctr + C pour sortir
+
   </ol>
 
 
 ## Comment utiliser l'Appli:
 <ol>
   <li> avec votre terminal, positionnez vous dans le dossier dans lequel vous avez installé l'Appli</li>
+  
+  <li>`cd Crispy_App\frontend`
+  puis  `npm run start`</li>
+
+  <li> retournez à la racine de Crispy_App `cd ..`</li>
 
   <li> activez l'environnement virtuel à l'aide des commandes du terminal:
 - `pipenv shell`
