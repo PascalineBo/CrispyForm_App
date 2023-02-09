@@ -34,18 +34,19 @@ Pour utiliser cette app:
 
 
 ## Comment utiliser l'Appli:
+<ol>
+  <li> avec votre terminal, positionnez vous dans le dossier dans lequel vous avez installé l'Appli</li>
 
-(i) avec votre terminal, positionnez vous dans le dossier dans lequel vous avez installé l'Appli
-
-(ii) activez l'environnement virtuel à l'aide des commandes du terminal:
+  <li> activez l'environnement virtuel à l'aide des commandes du terminal:
 - `pipenv shell`
-
-(iii) ensuite tapez la commande 
+</li>
+  <li> ensuite tapez la commande 
 
 `python manage.py runserver`
 
-pour exécuter le serveur de développement
+pour exécuter le serveur de développement</li>
 
-(iv) entrez dans votre navigateur l'adresse:
+<li> entrez dans votre navigateur l'adresse:
 
-http://127.0.0.1:8000/
+http://127.0.0.1:8000/</li>
+    </ol>
