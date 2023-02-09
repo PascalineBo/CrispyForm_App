@@ -14,9 +14,7 @@ Pour utiliser cette app:
 
 `git clone https://github.com/MargueriteEffren/Crispy_App.git`
 
-(iv) puis positionnez vous dans le dossier OC_Projet9 (`cd OC_Projet9`)
-
-(v) créez votre environnement virtuel, par exemple avec la commande:
+(iv) créez votre environnement virtuel, par exemple avec la commande:
 
 `python3 -m venv env`
 
@@ -31,7 +29,8 @@ Pour utiliser cette app:
 
 (vii) puis installez les packages requirements du projet à l'aide de la commande:
 
-`pip install -r requirements.txt`
+`pipenv install django`  et 
+`npm install`
 
 
 ## Comment utiliser l'Appli:
