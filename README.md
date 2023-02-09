@@ -15,8 +15,9 @@ Pour utiliser cette app:
 
 `git clone https://github.com/MargueriteEffren/Crispy_App.git`</li>
 
-  <li> positionnez vous dans le répertoire Crispy_App:
-- `pip install pipenv` </li>
+  <li> positionnez-vous dans le répertoire Crispy_App:
+    
+- `cd Crispy_App` </li>
   
   <li>  créez votre dossier d'environnement virtuel:
 
