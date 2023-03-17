@@ -8,10 +8,9 @@ Pour utiliser cette app:
 
 
 ## Comment installer cette Appli sur votre ordinateur:
+Requis: téléchargez **[Python 3.10](https://www.python.org/downloads/)** et **[NodeJS](https://nodejs.org/fr/download/)**
 <ol>
-  <li> </li>Requis: téléchargez [Python 3.10](https://www.python.org/downloads/) et [NodeJS](https://nodejs.org/fr/download/)
-
-  <li> puis, avec les commandes du terminal, positionnez-vous sur le dossier dans lequel vous souhaitez installer l'Appli</li>
+  <li> Avec les commandes du terminal, positionnez-vous sur le dossier dans lequel vous souhaitez installer l'Appli</li>
 
   <li> pour importer les fichiers de ce repository, tapez la commande git:
 
