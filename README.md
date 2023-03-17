@@ -1,7 +1,9 @@
 # Crispy_App
 Entraînement à l'utilisation de **webpack-boilerplate** (https://python-webpack-boilerplate.readthedocs.io/en/latest/) et crispy forms
 
-Grâce au wepinaire de **[Place Python](https://placepython.fr/)**(dépôt de code original: https://github.com/placepython/wepynaire-django-crispy-forms-20230110?sc=72554853702a5afd9cefccfae385683b3b283f47)
+Grâce au wepinaire de **[Place Python](https://placepython.fr/)**
+
+(dépôt de code original: https://github.com/placepython/wepynaire-django-crispy-forms-20230110?sc=72554853702a5afd9cefccfae385683b3b283f47)
 
 Pour utiliser cette app:
 
