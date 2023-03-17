@@ -1,7 +1,7 @@
 # Crispy_App
 Entraînement à l'utilisation de webpack-boilerplate (https://python-webpack-boilerplate.readthedocs.io/en/latest/) et crispy forms
 
-grâce au wepinaire de [Place Python](https://placepython.fr/)(dépôt de code original: https://github.com/placepython/wepynaire-django-crispy-forms-20230110?sc=72554853702a5afd9cefccfae385683b3b283f47)
+Grâce au wepinaire de [Place Python](https://placepython.fr/)(dépôt de code original: https://github.com/placepython/wepynaire-django-crispy-forms-20230110?sc=72554853702a5afd9cefccfae385683b3b283f47)
 
 Pour utiliser cette app:
 
@@ -9,7 +9,7 @@ Pour utiliser cette app:
 
 ## Comment installer cette Appli sur votre ordinateur:
 <ol>
-  <li> Requis: téléchargez **[Python 3.10](https://www.python.org/downloads/)** et **[NodeJS](https://nodejs.org/fr/download/)**</li>
+  <li> Requis: téléchargez ** [Python 3.10](https://www.python.org/downloads/) ** et **[NodeJS](https://nodejs.org/fr/download/)**</li>
 
   <li> puis, avec les commandes du terminal, positionnez-vous sur le dossier dans lequel vous souhaitez installer l'Appli</li>
 
