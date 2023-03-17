@@ -58,9 +58,7 @@ Requis: téléchargez **[Python 3.10](https://www.python.org/downloads/)** et **
     
 - `Ctrl + C` puis à la question du terminal "Terminer le programme de commandes (O/N) ? " répondez `N`</li>
 
-  <li> retournez à la racine de Crispy_App 
-    
-- `cd ..`</li>
+  <li> retournez à la racine de Crispy_App  `cd ..`</li>
 
   <li> activez l'environnement virtuel à l'aide des commandes du terminal:
     
