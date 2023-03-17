@@ -1,5 +1,5 @@
 # Crispy_App
-Entraînement à l'utilisation de webpack-boilerplate et crispy forms
+Entraînement à l'utilisation de webpack-boilerplate (https://python-webpack-boilerplate.readthedocs.io/en/latest/) et crispy forms
 
 Pour utiliser cette app:
 
