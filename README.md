@@ -54,6 +54,9 @@ Requis: téléchargez **[Python 3.10](https://www.python.org/downloads/)** et **
 - `npm run build` pour compiler le code front
     
   </li>
+   <li> retournez à la racine de Crispy_App 
+    
+- `Ctrl + C` puis à la question du terminal "Terminer le programme de commandes (O/N) ? " répondez 'N'</li>
 
   <li> retournez à la racine de Crispy_App 
     
