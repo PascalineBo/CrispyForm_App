@@ -34,10 +34,7 @@ Requis: téléchargez **[Python 3.10](https://www.python.org/downloads/)** et **
 - `pipenv install python-webpack-boilerplate`
 - `pipenv install crispy-bootstrap5`
 - `cd frontend` puis `npm install`</li>
-- `npm build start`
 </li>
-
-<li> appuyez sur Ctr + C pour sortir
 
   </ol>
 
