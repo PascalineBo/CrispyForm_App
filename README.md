@@ -16,11 +16,11 @@ Requis: téléchargez **[Python 3.10](https://www.python.org/downloads/)** et **
 
   <li> pour importer les fichiers de ce repository, tapez la commande git:
 
-`git clone https://github.com/MargueriteEffren/Crispy_App.git`</li>
+`git clone https://github.com/PascalineBo/CrispyForm_App.git`</li>
 
   <li> positionnez-vous dans le répertoire Crispy_App:
     
-- `cd Crispy_App` </li>
+- `cd CrispyForm_App` </li>
   
   <li>  créez votre dossier d'environnement virtuel:
 
